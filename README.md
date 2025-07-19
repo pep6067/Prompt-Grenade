@@ -61,7 +61,7 @@ ollama run codellama
 # Step 4 — Run the factory
 python promptgrenade.py
 
-# Output will be stored in ./logs/
+# Output will be stored in root folder and in /collections
 ```
 That's it! Thanks for reading it through. Well, I hope you enjoy seeing LLMs break under Prompt Grenade's 'friendly attacks'. 
 
