@@ -1,4 +1,5 @@
 # PromptGrenade Factory
+![Prompt Grenade Preview](assets/Prompt-Grenade-logo.png)
 
 A lean, legal engine for generating strange prompts that confuse the smartest language models.  
 No hacks. No exploits. Just precision-crafted input — and proof that machines still break under pressure.
